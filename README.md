@@ -80,7 +80,7 @@ A sophisticated Reinforcement Learning (RL) + LSTM + Sentiment Analysis hybrid t
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/Sanorbs/AI-Trade-app
 cd rl-stock-trading
 
 # Install dependencies
